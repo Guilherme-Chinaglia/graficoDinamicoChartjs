@@ -1,4 +1,4 @@
-# Como implementar GRÁFICOS dinâmicos com Chart.js - [INTRODUÇÃO]
+# Como implementar GRÁFICOS dinâmicos com Chart.js
 
 Código referente a video aula ministrada no Canal do YouTube - Guilherme Chinaglia
 
