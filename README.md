@@ -1,4 +1,9 @@
-# Como implementar GRÁFICOS dinâmicos com Chart.js - [INTRODUÇÃO]
+# Como implementar GRÁFICOS dinâmicos com Chart.js
+
+- Biblioteca chart.js
+- PHP (Json)
+- JQuery (Ajax)
+- MySQL
 
 Código referente a video aula ministrada no Canal do YouTube - Guilherme Chinaglia
 
